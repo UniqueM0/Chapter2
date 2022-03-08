@@ -24,3 +24,4 @@
 
 list_of_numbers =[1,23,56,78]
 print(list_of_numbers.count(23))
+
